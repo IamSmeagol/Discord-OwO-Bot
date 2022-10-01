@@ -14,7 +14,7 @@ module.exports = new CommandInterface({
 
 	args:"",
 
-	desc:"Check your cowoncy balance! You can earn more cowoncy by saying owo, dailies, and voting!",
+	desc:"Check your cowoncy balance! You can earn more cowoncy by claiming dailies, voting, completing your checklist, and leveling up!",
 
 	example:[],
 
